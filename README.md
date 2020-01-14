@@ -79,5 +79,5 @@ A moving algorithm receives as input two values:
   - A dictionary mapping floor numbers to a list of people who are waiting on that floor. 
 It outputs a list of decisions (one for each elevator) specifying in which direction it should move.
 
-This is an extremely flexible model of how elevators move (in real-life, the use of elevator buttons makes this much more constrained), and the reason we do this is so that that you can implement a variety of fun and interesting elevator algorithms! On this assignment, you will implement the following three algorithms.
+This is an extremely flexible model of how elevators move (in real-life, the use of elevator buttons makes this much more constrained).
 
